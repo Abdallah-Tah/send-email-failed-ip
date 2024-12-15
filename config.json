@@ -1,0 +1,19 @@
+{
+    "mail_settings": {
+        "host": "mail.privateemail.com",
+        "port": 465,
+        "username": "support@djib-payroll.com",
+        "password": "Skull77856701@",
+        "from_address": "support@djib-payroll.com"
+    },
+    "reboot_settings": {
+        "threshold": 2,
+        "max_failures": 5,
+        "retry_count": 3,
+        "retry_interval": 180
+    },
+    "email_alert_file": "email_send_alert.txt",
+    "log_file": "ping_log.txt",
+    "ip_address_file": "ip_address_list.txt",
+    "plug_ip_file": "plug_ip.txt"
+}
